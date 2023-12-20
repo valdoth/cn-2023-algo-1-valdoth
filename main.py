@@ -1,6 +1,3 @@
-from unittest import result
-
-
 enfants = {
     "Alice": ["Chocolat", "Guimauve"],
     "Bob": ["Caramel", "Fruits"],
